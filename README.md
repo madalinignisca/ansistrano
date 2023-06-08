@@ -1,0 +1,2 @@
+# ansistrano
+Ansistrano Docker Image
